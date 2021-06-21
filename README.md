@@ -10,7 +10,7 @@ Apaixonado por Data Science, algoritmos de machine learning e afins. Possuo conh
 
   ## As contribuições ainda são poucas mas, a busca por conhecimento é enorme :purple_heart:
 
-![]() 
+![](https://github.com/fellypesb/fellypesb/blob/output/github-contribution-grid-snake.svg) 
 
 ## Entre, seja bem vindo, explore, fique à vontade. E não esqueça de deixar a :star: caso goste de algum projeto :stuck_out_tongue_winking_eye:
 
