@@ -8,7 +8,7 @@ Apaixonado por **Data Science**, algoritmos de **machine learning** e afins. Pos
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellypesb&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-### As contribuições ainda são poucas mas, a busca por conhecimento é enorme. :purple_heart:
+### As contribuições ainda são poucas. Mas, a busca por conhecimento é enorme. :purple_heart:
 
 ![](https://github.com/fellypesb/fellypesb/blob/output/github-contribution-grid-snake.svg) 
 
