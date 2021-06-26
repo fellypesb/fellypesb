@@ -1,7 +1,8 @@
 ## `print('Oii')`
 
-
-<img align="right" src="https://media.giphy.com/media/MfGOjkEtoyMgFcxCSz/giphy.gif" width="150" height="200"/>
+<div>
+<img align="left" src="https://media.giphy.com/media/MfGOjkEtoyMgFcxCSz/giphy.gif" width="150" height="200"/>
+</div>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellypesb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
